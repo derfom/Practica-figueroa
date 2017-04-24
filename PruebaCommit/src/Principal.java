@@ -5,6 +5,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Prueba");
 		System.out.println("hola");
-	}
+		System.out.println("delfin");
 
+	}
+/* comentario delfin*/
 }
